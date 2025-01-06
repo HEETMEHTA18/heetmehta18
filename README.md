@@ -1,13 +1,21 @@
-<a href="https://github.com/rahull0328?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahull0328?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
-    <a href="https://github.com/rahull0328?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rahull0328?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/rahull0328/?tab=Simple-View-Counter">
-      <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rahull0328&style=for-the-badge"/>
-    </a>
-    <h2 align="center">⚡ Streaks ⚡</h2>
+<div align="center">
+      
+<h1>👨‍💻 About Me 👨‍💻</h1>
+
+<p>
+      I'm a Web Developer and Tech Enthusiast passionate about building beautiful, functional, and user-friendly web applications. Whether it's front-end magic, back-end logic, or diving into the latest tech trends, I'm always excited to create something impactful.
+</p>
+      <a href="https://github.com/heetmehta18?tab=repositories&sort=stargazers">
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/heetmehta18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+      <a href="https://github.com/heetmehta18?tab=followers">
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/heetmehta18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/heetmehta18/?tab=Simple-View-Counter">
+            <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=heetmehta18&style=for-the-badge"/>
+      </a>
+</div>
+<h2 align="center">⚡ Streaks ⚡</h2>
 <br />
 <p align=center>
   <div align=center>
