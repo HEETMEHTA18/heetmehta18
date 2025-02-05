@@ -30,7 +30,12 @@
    <br>
    
 </p>
-<div align="center">  
+<div align="center"> 
+
+ <h2 align="center">⚡ 💻 Tech 💻 ⚡</h2>
+        
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C)     ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
+
 <h2>📈 Github Stats 📈</h2>
 <br>
   
