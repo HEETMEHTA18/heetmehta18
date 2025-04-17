@@ -3,7 +3,7 @@
 <h1>👨‍💻 About Me 👨‍💻</h1>
 
 <p>
-      I'm a Web Developer and Tech Enthusiast passionate about building beautiful, functional, and user-friendly web applications. Whether it's front-end magic, back-end logic, or diving into the latest tech trends, I'm always excited to create something impactful.
+      I'm a Web Developer and Tech Enthusiast passionate about building beautiful, functional, and user-friendly web applications and sites . Whether it's front-end magic, back-end logic, or diving into the latest tech trends, I'm always excited to create something impactful.
 </p>
 <!--          <a href="https://github.com/heetmehta18?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/heetmehta18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
