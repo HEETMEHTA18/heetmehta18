@@ -42,3 +42,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heetmehta18&theme=radical)](https://github.com/heetmehta18)&nbsp;&nbsp;&nbsp;&nbsp;  [![Heet’s github stats](https://github-readme-stats.vercel.app/api?username=heetmehta18&theme=radical)](https://github.com/heetmehta18)
 
 </div>
+<div align="center">
+  <h2>🏆 Trophies 🏆</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=HEETMEHTA18&theme=discord" alt="github_trophies" />
+</div>
