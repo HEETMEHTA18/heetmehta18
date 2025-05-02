@@ -101,5 +101,3 @@
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=heetmehta18&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" />
 </div>
-
-![GitHub Snake Ocean](https://github.com/heetmehta18/heetmehta18/blob/output/ocean.gif)
