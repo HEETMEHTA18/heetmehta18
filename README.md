@@ -82,6 +82,9 @@
 
 
 
+<div align="center">
+  <h2>🐍 Snake Game</h2>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
