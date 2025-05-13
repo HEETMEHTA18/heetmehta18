@@ -39,10 +39,12 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 *Loading inspirational quote...*
+> 💭 **"Remember that the best relationship is one in which your love for each other exceeds your need for each other."**  
+> — *Dalai Lama*
 <!-- thought-end -->
 
 </div>
+
 
 
 <!-- 🚀 Tech Stack -->

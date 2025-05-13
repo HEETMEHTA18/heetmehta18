@@ -1,9 +1,5 @@
 {
-  "name": "readme-quote-updater",
-  "version": "1.0.0",
-  "main": "update-readme.js",
-  "type": "module",
-  "scripts": {
-    "start": "node update-readme.js"
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
