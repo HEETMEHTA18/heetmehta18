@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1600&color=00FFC3&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Heet+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Lover+%F0%9F%8E%A8;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
----
 
 <!-- 🧑‍💻 About Me -->
 <table style="border: none;">
@@ -59,6 +58,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetmehta18&theme=radical&hide_border=true&border_radius=20" width="60%" />
 </div>
 
+<!-- 🗺️ Contribution Graph -->
+<div align="center">
+  <h2>🌍 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=react-dark&hide_border=true&area=true" width="90%" />
+</div>
+<div align="center">
 
 
 <!-- 📈 Stats -->
@@ -67,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heetmehta18&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="60%" />
 </div>
 
----
+
 
 <!-- 🚀 Languages -->
 <div align="center">
@@ -75,14 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetmehta18&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
 </div>
 
----
 
-<!-- 🗺️ Contribution Graph -->
-<div align="center">
-  <h2>🌍 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=react-dark&hide_border=true&area=true" width="90%" />
-</div>
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake-dark.svg" />
@@ -91,8 +89,6 @@
 </picture>
 
 </div>
-
----
 
 <!-- 🏆 Trophies -->
 <div align="center">
