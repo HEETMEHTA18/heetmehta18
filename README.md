@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Every man is guilty of all the good he did not do. "**  
-> — *Voltaire*
+> 💭 **"The art of being wise is knowing what to overlook."**  
+> — *William James*
 <!-- thought-end -->
 
 </div>
