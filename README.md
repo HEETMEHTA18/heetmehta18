@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Remember that the best relationship is one in which your love for each other exceeds your need for each other."**  
-> — *Dalai Lama*
+> 💭 **"Every man is guilty of all the good he did not do. "**  
+> — *Voltaire*
 <!-- thought-end -->
 
 </div>

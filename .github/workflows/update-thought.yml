@@ -18,8 +18,11 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run update script
-        run: node update-readme.js
+        run: node update-readme.mjs
 
       - name: Commit and Push changes
         run: |
