@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The art of being wise is knowing what to overlook."**  
-> — *William James*
+> 💭 **"The wise accomplish all that they want without arousing the envy or scorn of others."**  
+> — *Ming-Dao Deng*
 <!-- thought-end -->
 
 </div>
