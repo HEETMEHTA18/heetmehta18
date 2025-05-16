@@ -94,10 +94,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetmehta18&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
 </div>
 
+<!-- 🏆 Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=heetmehta18&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" />
+</div>
 
 
 <div align="center">
-  <h2>🐍 Snake Game</h2>
+  <h2>🐍 Snake Eating The Contributions</h2>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake-dark.svg" />
@@ -105,10 +110,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
 </picture>
 
-</div>
-
-<!-- 🏆 Trophies -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=heetmehta18&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" />
 </div>
