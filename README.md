@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The wise accomplish all that they want without arousing the envy or scorn of others."**  
-> — *Ming-Dao Deng*
+> 💭 **"The meaning of life is that it stops."**  
+> — *Franz Kafka*
 <!-- thought-end -->
 
 </div>
