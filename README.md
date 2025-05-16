@@ -12,7 +12,7 @@
   <tr>
     <td>
 
-  <h3>🛠️ About Me</h3>
+  <h2>🛠️ About Me :</h2>
 
 - 🎓 I'm a Computer Science Student  
 - 💻 Passionate Frontend Developer  
