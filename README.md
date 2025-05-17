@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The meaning of life is that it stops."**  
-> — *Franz Kafka*
+> 💭 **"Always focus on the front windshield and not the rear view mirror."**  
+> — *Colin Powell*
 <!-- thought-end -->
 
 </div>
