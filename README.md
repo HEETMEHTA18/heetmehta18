@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Always focus on the front windshield and not the rear view mirror."**  
-> — *Colin Powell*
+> 💭 **"I am not proud, but I am happy; and happiness blinds, I think, more than pride."**  
+> — *Alexandre Dumas*
 <!-- thought-end -->
 
 </div>
