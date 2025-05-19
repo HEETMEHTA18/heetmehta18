@@ -39,8 +39,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"I am not proud, but I am happy; and happiness blinds, I think, more than pride."**  
-> — *Alexandre Dumas*
+> 💭 **"We need a backbone, not a wishbone."**  
+> — *Joyce Meyer*
 <!-- thought-end -->
 
 </div>
