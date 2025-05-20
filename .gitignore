@@ -1,0 +1,41 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Build output
+dist/
+build/
+out/
+
+# Optional: lock files (if you don't want to commit them)
+/package-lock.json
+/yarn.lock
+
+# Ignore test coverage
+coverage/
+
+# Ignore any custom or temp files
+*.local
+*.tmp
+*.swp
+
+# Ignore workflow temp files
+.github/workflows/*.log
+
+# Remove incorrect entry
+# /.node_modulcal
