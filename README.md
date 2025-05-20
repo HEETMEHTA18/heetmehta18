@@ -1,4 +1,3 @@
-
 # [👨‍💻 Heet Mehta — Futuristic Frontend Engineer](https://heetmehta18.github.io/)
 
 <!-- 🎯 Banner / Intro Typing Animation -->
@@ -39,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"We need a backbone, not a wishbone."**  
-> — *Joyce Meyer*
+> 💭 **"When the world pushes you to your knees, you're in the perfect position to pray."**  
+> — *Rumi*
 <!-- thought-end -->
 
 </div>
@@ -66,6 +65,7 @@
 </div>
 
 ---
+
 <!-- 🔥 Streak -->
 <div align="center">
   <h2>🔥 GitHub Streak 🔥</h2>
@@ -111,3 +111,5 @@
 </picture>
 
 </div>
+
+run: node update-readme.mjs
