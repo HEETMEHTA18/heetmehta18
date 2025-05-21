@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"When the world pushes you to your knees, you're in the perfect position to pray."**  
-> — *Rumi*
+> 💭 **"Everyone must choose one of two pains: The pain of discipline or the pain of regret."**  
+> — *Jim Rohn*
 <!-- thought-end -->
 
 </div>
