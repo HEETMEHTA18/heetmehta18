@@ -32,7 +32,7 @@ coverage/
 # Ignore any custom or temp files
 *.local
 *.tmp
-*.swp
+
 
 # Ignore workflow temp files
 .github/workflows/*.log
