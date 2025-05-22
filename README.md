@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Everyone must choose one of two pains: The pain of discipline or the pain of regret."**  
-> — *Jim Rohn*
+> 💭 **"There is nothing like looking if you want to find something."**  
+> — *J.R.R. Tolkien*
 <!-- thought-end -->
 
 </div>
