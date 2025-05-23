@@ -66,7 +66,6 @@
 
 ---
 
-<!-- 🔥 Streak -->
 <div align="center">
   <h2>🔥 GitHub Streak 🔥</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetmehta18&theme=radical&hide_border=true&border_radius=20" width="60%" />
