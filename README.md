@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"There is nothing like looking if you want to find something."**  
-> — *J.R.R. Tolkien*
+> 💭 **"I want the fishing rod, not the fish."**  
+> — *Yanni*
 <!-- thought-end -->
 
 </div>
