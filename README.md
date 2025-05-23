@@ -112,4 +112,10 @@
 
 </div>
 
-run: node update-readme.mjs
+- name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "🔁 Update Thought of the Day" || echo "No changes to commit"
+          git push
