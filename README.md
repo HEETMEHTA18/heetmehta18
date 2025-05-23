@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"I want the fishing rod, not the fish."**  
-> — *Yanni*
+> 💭 **"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."**  
+> — *Epictetus*
 <!-- thought-end -->
 
 </div>
