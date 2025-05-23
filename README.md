@@ -27,10 +27,10 @@
 </table>
 
 
-<!-- ✨ Motto / Quote Typing
+✨ Motto / Quote Typing
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FFC3&center=true&vCenter=true&width=800&lines=Creating+beautiful+web+experiences+one+line+at+a+time+%F0%9F%92%A1" alt="Typing SVG" />
-</div> -->
+</div>
 
 <!-- 💭 Thought of the Day -->
 <div align="center">
