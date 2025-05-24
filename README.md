@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."**  
-> — *Epictetus*
+> 💭 **"Music is like creating an emotional painting. The sounds are the colors."**  
+> — *Yanni*
 <!-- thought-end -->
 
 </div>
