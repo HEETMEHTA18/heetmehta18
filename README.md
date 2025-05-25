@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Music is like creating an emotional painting. The sounds are the colors."**  
-> — *Yanni*
+> 💭 **"What you do today can improve all your tomorrows."**  
+> — *Ralph Marston*
 <!-- thought-end -->
 
 </div>
