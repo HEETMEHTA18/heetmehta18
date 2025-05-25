@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"What you do today can improve all your tomorrows."**  
-> — *Ralph Marston*
+> 💭 **"Go and do the things you can't. That is how you get to do them."**  
+> — *Pablo Picasso*
 <!-- thought-end -->
 
 </div>
