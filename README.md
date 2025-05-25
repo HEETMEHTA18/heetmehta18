@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"I want the fishing rod, not the fish."**  
-> — *Yanni*
+> 💭 **"What you do today can improve all your tomorrows."**  
+> — *Ralph Marston*
 <!-- thought-end -->
 
 </div>
