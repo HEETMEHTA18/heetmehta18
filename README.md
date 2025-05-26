@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Go and do the things you can't. That is how you get to do them."**  
-> — *Pablo Picasso*
+> 💭 **"If you love life, don't waste time, for time is what life is made up of. "**  
+> — *Bruce Lee*
 <!-- thought-end -->
 
 </div>
