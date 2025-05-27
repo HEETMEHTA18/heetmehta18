@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"If you love life, don't waste time, for time is what life is made up of. "**  
-> — *Bruce Lee*
+> 💭 **"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."**  
+> — *Charles Dickens*
 <!-- thought-end -->
 
 </div>
