@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."**  
-> — *Charles Dickens*
+> 💭 **"I put my heart and soul into my work, and I have lost my mind in the process."**  
+> — *Vincent van Gogh*
 <!-- thought-end -->
 
 </div>
