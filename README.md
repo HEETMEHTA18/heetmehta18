@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"I put my heart and soul into my work, and I have lost my mind in the process."**  
-> — *Vincent van Gogh*
+> 💭 **"Walking with a friend in the dark is better than walking alone in the light."**  
+> — *Helen Keller*
 <!-- thought-end -->
 
 </div>
