@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Walking with a friend in the dark is better than walking alone in the light."**  
-> — *Helen Keller*
+> 💭 **"A strong man overcomes an obstacle, a wise man goes the whole way."**  
+> — *Zen Proverb*
 <!-- thought-end -->
 
 </div>
