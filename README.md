@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"A strong man overcomes an obstacle, a wise man goes the whole way."**  
-> — *Zen Proverb*
+> 💭 **"Man must use what he has, not hope for what is not."**  
+> — *G.I. Gurdjieff*
 <!-- thought-end -->
 
 </div>
