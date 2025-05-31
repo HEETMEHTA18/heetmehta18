@@ -1,4 +1,4 @@
-# [👨‍💻 Heet Mehta — Futuristic Frontend Engineer](https://heetmehta18.github.io/)
+# [👨‍💻 Heet Mehta — Futuristic Frontend Engineer](https://heet18.vercel.app/)
 
 <!-- 🎯 Banner / Intro Typing Animation -->
 <div align="center">
