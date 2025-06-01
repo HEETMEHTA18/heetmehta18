@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Man must use what he has, not hope for what is not."**  
-> — *G.I. Gurdjieff*
+> 💭 **"Everything you look at can become a fairy tale and you can get a story from everything you touch."**  
+> — *Hans Christian Andersen*
 <!-- thought-end -->
 
 </div>
