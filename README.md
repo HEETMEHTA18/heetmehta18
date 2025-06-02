@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Everything you look at can become a fairy tale and you can get a story from everything you touch."**  
-> — *Hans Christian Andersen*
+> 💭 **"A lie can travel half way around the world while the truth is putting on its shoes."**  
+> — *Mark Twain*
 <!-- thought-end -->
 
 </div>
