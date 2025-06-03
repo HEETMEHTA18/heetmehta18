@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"A lie can travel half way around the world while the truth is putting on its shoes."**  
-> — *Mark Twain*
+> 💭 **"It's not how much we give but how much love we put into giving."**  
+> — *Mother Teresa*
 <!-- thought-end -->
 
 </div>
