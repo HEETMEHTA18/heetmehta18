@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"It's not how much we give but how much love we put into giving."**  
-> — *Mother Teresa*
+> 💭 **"Many people spend more time looking at their failures than focusing on their successes."**  
+> — *Lolly Daskal*
 <!-- thought-end -->
 
 </div>
