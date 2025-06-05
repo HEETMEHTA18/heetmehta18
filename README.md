@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Many people spend more time looking at their failures than focusing on their successes."**  
-> — *Lolly Daskal*
+> 💭 **"To become what you are not, behave as you do not."**  
+> — *T.S. Eliot*
 <!-- thought-end -->
 
 </div>
