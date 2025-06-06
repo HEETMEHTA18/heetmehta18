@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"To become what you are not, behave as you do not."**  
-> — *T.S. Eliot*
+> 💭 **"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."**  
+> — *Vaclav Havel*
 <!-- thought-end -->
 
 </div>
