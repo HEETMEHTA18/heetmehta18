@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."**  
-> — *Socrates*
+> 💭 **"Do not believe that you will reach your destination without leaving the shore. "**  
+> — *Chinese Proverb*
 <!-- thought-end -->
 
 </div>
