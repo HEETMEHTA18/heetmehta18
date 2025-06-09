@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Do not believe that you will reach your destination without leaving the shore. "**  
-> — *Chinese Proverb*
+> 💭 **"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."**  
+> — *Stephen Hawking*
 <!-- thought-end -->
 
 </div>
