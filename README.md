@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."**  
-> — *Stephen Hawking*
+> 💭 **"You'll see it when you believe it. "**  
+> — *Wayne Dyer*
 <!-- thought-end -->
 
 </div>
