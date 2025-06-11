@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"You'll see it when you believe it. "**  
-> — *Wayne Dyer*
+> 💭 **"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."**  
+> — *William James*
 <!-- thought-end -->
 
 </div>
