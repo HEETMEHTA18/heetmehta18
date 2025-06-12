@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."**  
-> — *William James*
+> 💭 **"Remember, today is the tomorrow you worried about yesterday."**  
+> — *Dale Carnegie*
 <!-- thought-end -->
 
 </div>
