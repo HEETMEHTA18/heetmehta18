@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Remember, today is the tomorrow you worried about yesterday."**  
-> — *Dale Carnegie*
+> 💭 **"Comedy = tragedy + time."**  
+> — *Carol Burnett*
 <!-- thought-end -->
 
 </div>
