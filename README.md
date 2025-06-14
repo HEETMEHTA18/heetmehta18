@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Comedy = tragedy + time."**  
-> — *Carol Burnett*
+> 💭 **"Reality is the leading cause of stress among those in touch with it."**  
+> — *Lily Tomlin*
 <!-- thought-end -->
 
 </div>
