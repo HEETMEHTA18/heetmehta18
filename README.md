@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Reality is the leading cause of stress among those in touch with it."**  
-> — *Lily Tomlin*
+> 💭 **"Don't talk about what you have done or what you are going to do."**  
+> — *Thomas Jefferson*
 <!-- thought-end -->
 
 </div>
