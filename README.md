@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Don't talk about what you have done or what you are going to do."**  
-> — *Thomas Jefferson*
+> 💭 **"When you are totally at peace with yourself, nothing can shake you."**  
+> — *Deepam Chaterjee*
 <!-- thought-end -->
 
 </div>
