@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"When you are totally at peace with yourself, nothing can shake you."**  
-> — *Deepam Chaterjee*
+> 💭 **"If you want to know what God thinks about money just look at the people He gives it to."**  
+> — *Alexander Pope*
 <!-- thought-end -->
 
 </div>
