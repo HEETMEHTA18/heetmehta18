@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"If you want to know what God thinks about money just look at the people He gives it to."**  
-> — *Alexander Pope*
+> 💭 **"Unless you're ashamed of yourself now and then, you're not honest."**  
+> — *William Faulkner*
 <!-- thought-end -->
 
 </div>
