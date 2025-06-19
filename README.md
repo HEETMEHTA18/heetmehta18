@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Unless you're ashamed of yourself now and then, you're not honest."**  
-> — *William Faulkner*
+> 💭 **"Mastering others is strength, mastering yourself is true power."**  
+> — *Lao Tzu*
 <!-- thought-end -->
 
 </div>
