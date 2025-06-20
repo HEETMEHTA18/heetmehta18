@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Mastering others is strength, mastering yourself is true power."**  
-> — *Lao Tzu*
+> 💭 **"Troubles are often the tools by which God fashions us for better things."**  
+> — *Henry Ward Beecher*
 <!-- thought-end -->
 
 </div>
