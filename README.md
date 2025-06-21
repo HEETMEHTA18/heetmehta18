@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Troubles are often the tools by which God fashions us for better things."**  
-> — *Henry Ward Beecher*
+> 💭 **"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"**  
+> — *Brian Tracy*
 <!-- thought-end -->
 
 </div>
