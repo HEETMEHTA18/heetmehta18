@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"**  
-> — *Brian Tracy*
+> 💭 **"The attempt to escape from pain, is what creates more pain."**  
+> — *Gabor Mate*
 <!-- thought-end -->
 
 </div>
