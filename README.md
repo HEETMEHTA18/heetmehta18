@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The attempt to escape from pain, is what creates more pain."**  
-> — *Gabor Mate*
+> 💭 **"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."**  
+> — *Jon Kabat-Zinn*
 <!-- thought-end -->
 
 </div>
