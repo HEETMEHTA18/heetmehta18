@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."**  
-> — *Jon Kabat-Zinn*
+> 💭 **"The only time you run out of chances is when you stop taking them."**  
+> — *Unknown*
 <!-- thought-end -->
 
 </div>
