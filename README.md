@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Throw me to the wolves and I will return leading the pack.  "**  
-> — *Seneca*
+> 💭 **"If you have to be in a soap opera try not to be cast in the worst role."**  
+> — *Judy Garland*
 <!-- thought-end -->
 
 </div>
