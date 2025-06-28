@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"If you have to be in a soap opera try not to be cast in the worst role."**  
-> — *Judy Garland*
+> 💭 **"The most tragic thing in the world is a man of genius who is not a man of honor."**  
+> — *George Bernard Shaw*
 <!-- thought-end -->
 
 </div>
