@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The most tragic thing in the world is a man of genius who is not a man of honor."**  
-> — *George Bernard Shaw*
+> 💭 **"You are the sky. Everything else - it's just the weather."**  
+> — *Pema Chodron*
 <!-- thought-end -->
 
 </div>
