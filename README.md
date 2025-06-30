@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"You are the sky. Everything else - it's just the weather."**  
-> — *Pema Chodron*
+> 💭 **"Not all those who wander are lost."**  
+> — *J.R.R. Tolkien*
 <!-- thought-end -->
 
 </div>
