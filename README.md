@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Not all those who wander are lost."**  
-> — *J.R.R. Tolkien*
+> 💭 **"Everyone wants to go to Heaven, but no one wants to die."**  
+> — *Robert Kiyosaki*
 <!-- thought-end -->
 
 </div>
