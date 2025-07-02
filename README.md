@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Everyone wants to go to Heaven, but no one wants to die."**  
-> — *Robert Kiyosaki*
+> 💭 **"Speak when you are angry - and you'll make the best speech you'll ever regret."**  
+> — *Laurence J. Peter*
 <!-- thought-end -->
 
 </div>
