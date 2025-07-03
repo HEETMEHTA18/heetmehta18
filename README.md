@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Speak when you are angry - and you'll make the best speech you'll ever regret."**  
-> — *Laurence J. Peter*
+> 💭 **"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**  
+> — *Carl Jung*
 <!-- thought-end -->
 
 </div>
