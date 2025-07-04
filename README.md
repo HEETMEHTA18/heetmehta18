@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**  
-> — *Carl Jung*
+> 💭 **"The number one cause of failure is the fear of failure."**  
+> — *Steve Harvey*
 <!-- thought-end -->
 
 </div>
