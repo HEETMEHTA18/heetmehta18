@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The number one cause of failure is the fear of failure."**  
-> — *Steve Harvey*
+> 💭 **"If you build the guts to do something, anything, then you better save enough to face the consequences."**  
+> — *Criss Jami*
 <!-- thought-end -->
 
 </div>
