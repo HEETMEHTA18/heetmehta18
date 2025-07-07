@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Hope is not a strategy. Luck is not a factor. Fear is not an option."**  
-> — *James Cameron*
+> 💭 **"Every man desires to live long, but no man wishes to be old."**  
+> — *Jonathan Swift*
 <!-- thought-end -->
 
 </div>
