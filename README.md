@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Every man desires to live long, but no man wishes to be old."**  
-> — *Jonathan Swift*
+> 💭 **"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."**  
+> — *Jeffrey Gitomer*
 <!-- thought-end -->
 
 </div>
