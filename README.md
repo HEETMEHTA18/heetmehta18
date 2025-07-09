@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."**  
-> — *Jeffrey Gitomer*
+> 💭 **"For fast-acting relief try slowing down."**  
+> — *Lily Tomlin*
 <!-- thought-end -->
 
 </div>
