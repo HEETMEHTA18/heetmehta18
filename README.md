@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"For fast-acting relief try slowing down."**  
-> — *Lily Tomlin*
+> 💭 **"The salvation of the world lies in the human heart."**  
+> — *Vaclav Havel*
 <!-- thought-end -->
 
 </div>
