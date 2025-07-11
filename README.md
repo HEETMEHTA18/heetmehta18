@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The salvation of the world lies in the human heart."**  
-> — *Vaclav Havel*
+> 💭 **"A real friend is one who walks in when the rest of the world walks out."**  
+> — *Unknown*
 <!-- thought-end -->
 
 </div>
