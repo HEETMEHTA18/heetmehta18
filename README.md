@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."**  
-> — *Steve Maraboli*
+> 💭 **"Those who realize their folly are not true fools."**  
+> — *Zhuangzi*
 <!-- thought-end -->
 
 </div>
