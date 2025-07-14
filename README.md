@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Those who realize their folly are not true fools."**  
-> — *Zhuangzi*
+> 💭 **"Life is a traveling to the edge of knowledge, then a leap taken."**  
+> — *D. H. Lawrence*
 <!-- thought-end -->
 
 </div>
