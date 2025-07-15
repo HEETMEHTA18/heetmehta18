@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Life is a traveling to the edge of knowledge, then a leap taken."**  
-> — *D. H. Lawrence*
+> 💭 **"Everybody needs a passion. That's what keeps life interesting."**  
+> — *Betty White*
 <!-- thought-end -->
 
 </div>
