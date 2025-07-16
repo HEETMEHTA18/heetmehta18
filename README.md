@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"What you do today can improve all your tomorrows."**  
-> — *Ralph Marston*
+> 💭 **"Life is too short to waste your time on people who don't respect, appreciate, and value you."**  
+> — *Roy T. Bennett*
 <!-- thought-end -->
 
 </div>
