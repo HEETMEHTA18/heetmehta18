@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Life is too short to waste your time on people who don't respect, appreciate, and value you."**  
-> — *Roy T. Bennett*
+> 💭 **"When you reach the end of your rope, tie a knot in it and hang on."**  
+> — *Franklin D. Roosevelt*
 <!-- thought-end -->
 
 </div>
