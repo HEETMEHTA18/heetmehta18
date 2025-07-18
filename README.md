@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"When you reach the end of your rope, tie a knot in it and hang on."**  
-> — *Franklin D. Roosevelt*
+> 💭 **"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."**  
+> — *Stephen Hawking*
 <!-- thought-end -->
 
 </div>
