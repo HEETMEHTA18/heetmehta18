@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."**  
-> — *Stephen Hawking*
+> 💭 **"You can never cross the ocean unless you have the courage to lose sight of the shore."**  
+> — *Christopher Columbus*
 <!-- thought-end -->
 
 </div>
