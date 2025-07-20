@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"You can never cross the ocean unless you have the courage to lose sight of the shore."**  
-> — *Christopher Columbus*
+> 💭 **"Lack of emotion causes lack of progress and lack of motivation."**  
+> — *Tony Robbins*
 <!-- thought-end -->
 
 </div>
