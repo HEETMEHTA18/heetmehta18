@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Lack of emotion causes lack of progress and lack of motivation."**  
-> — *Tony Robbins*
+> 💭 **"Don't seek, don't search, don't ask, don't knock, don't demand - relax."**  
+> — *Osho*
 <!-- thought-end -->
 
 </div>
