@@ -74,7 +74,11 @@
 <!-- 🗺️ Contribution Graph -->
 <div align="center">
   <h2>🌍 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=react-dark&hide_border=true&area=true" width="90%" />
+<!--   <img src="https://streak-stats.demolab.com/?user=HEETMEHTA18&theme=radical&fire=ff6f61&sideNums=ffffff" alt="GitHub Streak" />
+  <br/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HEETMEHTA18&theme=radical" alt="Profile Summary" />
+  <br/>
+  
 </div>
 <div align="center">
 
