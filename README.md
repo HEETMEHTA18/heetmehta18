@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Don't seek, don't search, don't ask, don't knock, don't demand - relax."**  
-> — *Osho*
+> 💭 **"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."**  
+> — *Colin Powell*
 <!-- thought-end -->
 
 </div>
