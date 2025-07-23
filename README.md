@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."**  
-> — *Colin Powell*
+> 💭 **"Confidence comes not from always being right but not fearing to be wrong."**  
+> — *Unknown*
 <!-- thought-end -->
 
 </div>
