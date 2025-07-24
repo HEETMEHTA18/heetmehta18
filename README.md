@@ -38,8 +38,8 @@
 ### 💭 Thought of the Day
 
 <!-- thought-start -->
-> 💭 **"Confidence comes not from always being right but not fearing to be wrong."**  
-> — *Unknown*
+> 💭 **"We must be free not because we claim freedom, but because we practice it."**  
+> — *William Faulkner*
 <!-- thought-end -->
 
 </div>
