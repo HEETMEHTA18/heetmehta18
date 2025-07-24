@@ -33,27 +33,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <h2>🛠️ My Tech Stack</h2>
-  <p>The tools and technologies I use to bring projects to life.</p>
-  
-  <h4>Languages & Markup</h4>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-    <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-    <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  </p>
-
-  <h4>Tools & Platforms</h4>
-  <p>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
-</div>
 
 ---
 
@@ -80,7 +59,7 @@
     <td colspan="2" valign="top">
       <div align="center">
         <h4>🔥 GitHub Streak</h4>
-        <img src="https://streak-stats.demolab.com/?user=heetmehta18&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.vercel.app/?user=HEETMEHTA18&theme=react-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
@@ -88,13 +67,33 @@
 
 <div align="center">
   <h4>🌍 Contribution Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=react-dar&hide_border=true&area=true&line=38BDF8&point=00BFFF&area_color=1E40AF&v=1" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=tokyonight&hide_border=true&area=true&line=FBBF24&point=FFFFFF&area_color=FBBF24&v=1" alt="Contribution Graph" width="95%" />
 </div>
-
 
 <div align="center">
   <h4>🏆 GitHub Trophies</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=heetmehta18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <h2>🛠️ My Tech Stack</h2>
+
+  <h4>Languages & Markup</h4>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+    <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  </p>
+
+  <h4>Tools & Platforms</h4>
+  <p>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 </div>
 
 <div align="center">
@@ -112,8 +111,7 @@
 
 ### 💭 Thought of the Day
 
-> 💭 **"We must be free not because we claim freedom, but because we practice it."** 
-> — *William Faulkner*
+> 💭 **"We must be free not because we claim freedom, but because we practice it."** > — *William Faulkner*
 </div>
 
 ---
