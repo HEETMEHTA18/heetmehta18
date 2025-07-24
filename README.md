@@ -88,7 +88,7 @@
 
 <div align="center">
   <h4>🌍 Contribution Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=tokyonight&hide_border=true&area=true&line=38BDF8&point=00BFFF&area_color=1E40AF&v=1" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=react-dar&hide_border=true&area=true&line=38BDF8&point=00BFFF&area_color=1E40AF&v=1" alt="Contribution Graph" width="95%" />
 </div>
 
 
@@ -112,7 +112,8 @@
 
 ### 💭 Thought of the Day
 
-> 💭 **"We must be free not because we claim freedom, but because we practice it."** > — *William Faulkner*
+> 💭 **"We must be free not because we claim freedom, but because we practice it."** 
+> — *William Faulkner*
 </div>
 
 ---
