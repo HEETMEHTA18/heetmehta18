@@ -32,20 +32,9 @@
     </td>
   </tr>
 </table>
-<!-- 💭 Thought of the Day -->
-<div align="center">
-
-### 💭 Thought of the Day
-
-<!-- thought-start -->
-> 💭 **"We must be free not because we claim freedom, but because we practice it."**  
-> — *William Faulkner*
-<!-- thought-end -->
-
-</div>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ My Tech Stack</h2>
   <p>The tools and technologies I use to bring projects to life.</p>
   
   <h4>Languages & Markup</h4>
@@ -99,8 +88,9 @@
 
 <div align="center">
   <h4>🌍 Contribution Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=tokyonight&hide_border=true&area=true&line=BB9AF7&point=FFFFFF&area_color=BB9AF7" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=tokyonight&hide_border=true&area=true&line=38BDF8&point=00BFFF&area_color=1E40AF&v=1" alt="Contribution Graph" width="95%" />
 </div>
+
 
 <div align="center">
   <h4>🏆 GitHub Trophies</h4>
@@ -114,6 +104,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
   </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Thought of the Day
+
+> 💭 **"We must be free not because we claim freedom, but because we practice it."** > — *William Faulkner*
 </div>
 
 ---
