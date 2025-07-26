@@ -15,7 +15,7 @@
       </p>
       <ul>
         <li>🎓 Studying Computer Science, specializing in web technologies.</li>
-        <li>🌱 Currently mastering <b>React</b> and advanced <b>JavaScript (ES6+)</b>.</li>
+        <li>🌱 Currently mastering <b>React</b> and <b>Javascript </b>. </li>
         <li>💻 I thrive on turning complex problems into simple, elegant UI solutions.</li>
         <li>⚡ Fun Fact: My CSS debugging skills are sharper than my cooking skills! 🍜</li>
       </ul>
@@ -59,7 +59,8 @@
     <td colspan="2" valign="top">
       <div align="center">
         <h4>🔥 GitHub Streak</h4>
-        <img src="https://github-readme-streak-stats.vercel.app/?user=HEETMEHTA18&theme=react-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heetmehta18&theme=react-dark&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</div>
       </div>
     </td>
   </tr>
