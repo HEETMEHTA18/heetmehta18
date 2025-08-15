@@ -1,10 +1,14 @@
 # [👨‍💻 Heet Mehta — Futuristic Frontend Engineer](https://heet18.vercel.app/)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1600&color=00F7A2&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Heet+%F0%9F%91%8B;A+Passionate+Frontend+Developer+%7C+UI%2FUX+Lover+%F0%9F%8E%A8;Building+the+Web+of+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A2&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Heet+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer+%F0%9F%8E%A8;Turning+Ideas+into+Interactive+Experiences+%E2%9C%A8;Passionate+about+Clean+%26+Efficient+Code+%F0%9F%92%BB;Creating+Responsive+%26+Accessible+Websites+%F0%9F%8C%90;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" alt="Typing SVG" />
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=heetmehta18&color=brightgreen&style=flat-square)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-heet18.vercel.app-00F7A2?style=flat-square&logo=vercel&logoColor=white)](https://heet18.vercel.app/)
 </div>
 
----
+
+
 
 <table style="border: none; width: 100%;">
   <tr>
@@ -109,11 +113,8 @@
 ---
 
 <div align="center">
-
-### 💭 Thought of the Day
-
-> 💭 **"We must be free not because we claim freedom, but because we practice it."** 
-> — *William Faulkner*
+  <h3>💭 Thought of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
 </div>
 
 ---
