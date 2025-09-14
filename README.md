@@ -105,6 +105,13 @@
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
   </p>
+
+  <h4>Coding Platforms</h4>
+  <p>
+    <a href="https://leetcode.com/u/6q4QjSdNoE/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <a href="https://www.codedx.io/@HEETMEHTA18" target="_blank"><img src="https://img.shields.io/badge/Codedx-000000?style=for-the-badge&logo=code&logoColor=white" alt="Codedx"></a>
+    <a href="https://www.codechef.com/users/heetmehta18" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  </p>
 </div>
 
 <div align="center">
