@@ -111,8 +111,25 @@
     <a href="https://leetcode.com/u/6q4QjSdNoE/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
     <a href="https://www.codedx.io/@HEETMEHTA18" target="_blank"><img src="https://img.shields.io/badge/Codedx-000000?style=for-the-badge&logo=code&logoColor=white" alt="Codedx"></a>
     <a href="https://www.codechef.com/users/heetmehta18" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+    <a href="https://www.hackerrank.com/profile/24ce064" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
   </p>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding Animation" />
+</div>
+
+---
+
+## 🏅 Holopin Badges
+
+<div align="center">
+  <a href="https://www.holopin.io/@heetmehta18">
+    <img src="https://holopin.me/heetmehta18" alt="Holopin Badge Board" />
+  </a>
+</div>
+
+---
 
 <div align="center">
   <h4>🐍 My Contributions Are Snacking Their Way Through the Grid!</h4>
