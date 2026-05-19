@@ -1,145 +1,59 @@
-# [👨‍💻 Heet Mehta — Futuristic Frontend Engineer](https://heet18.vercel.app/)
+# Heet Mehta — AI/ML Enthusiast
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A2&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Heet+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer+%F0%9F%8E%A8;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Turning+Ideas+into+Interactive+Experiences+%E2%9C%A8;Passionate+about+Clean+%26+Efficient+Code+%F0%9F%92%BB;Creating+Responsive+%26+Accessible+Websites+%F0%9F%8C%90;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" alt="Typing SVG" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=heetmehta18&color=00F7A2&style=flat-square" alt="Profile Views" />
-    <a href="https://heet18.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-heet18.vercel.app-00F7A2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+	<img src="https://komarev.com/ghpvc/?username=heetmehta18&color=00F7A2&style=flat-square&label=views" alt="Profile Views" />
+	<img src="https://img.shields.io/github/stars/heetmehta18?style=flat-square&color=00F7A2&label=likes" alt="GitHub Stars" />
+	<img src="https://img.shields.io/github/followers/heetmehta18?style=flat-square&color=00F7A2&label=followers" alt="Followers" />
 </div>
 
-<br/>
+👋 ***Hey***! I'm Heet, a Computer Engineering student passionate about building intelligent AI/ML solutions and creating seamless user experiences powered by machine learning. Currently focused on RAG systems, LLM applications, and AI-driven full-stack development.
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td valign="top" width="60%">
-      <h2> About Me</h2>
-      <p align="left">
-        Hey there! I'm <b>Heet</b>, a Computer Science student with a deep passion for bringing ideas to life on the web. My focus is on creating beautiful, responsive, and highly interactive user interfaces. I believe that a great user experience is not just a feature, but the core of any successful digital product.
-      </p>
-      <ul>
-        <li>🎓 Studying Computer Science, specializing in <b>Web Technologies & AI/ML</b>.</li>
-        <li> Currently mastering <b>React</b> and <b>JavaScript</b>.</li>
-        <li> I thrive on turning complex problems into simple, elegant UI solutions.</li>
-        <!-- <li> <b>Fun Fact:</b> My CSS debugging skills are sharper than my cooking skills! 🍜</li> -->
-      </ul>
-      
-    
-  </tr>
-</table>
+ **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)
 
----
+## About Me
 
-<div align="center">
-  <h2>📊 My GitHub Stats & Activity</h2>
-</div>
+I'm a passionate Computer Engineering student specializing in **Web Technologies** and **AI/ML**. I am transforming complex problems into elegant UI solutions and creating responsive, accessible digital experiences.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>📈 General Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=heetmehta18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" alt="Heet Mehta's GitHub Stats" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>🚀 Top Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetmehta18&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <div align="center">
-        <h4>🔥 GitHub Streak</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetmehta18&theme=tokyonight&hide_border=true&border_radius=12&background=00000000" alt="GitHub Streak" />
-      </div>
-    </td>
-  </tr>
-</table>
 
-<div align="center">
-  <h4>🌍 Contribution Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetmehta18&theme=tokyonight&hide_border=true&area=true&line=FBBF24&point=FFFFFF&area_color=FBBF24&v=1&bg_color=00000000" alt="Contribution Graph" width="95%" />
-</div>
 
-<br/>
+**Languages:** JavaScript, TypeScript, HTML5, CSS3, C, C++, Python
 
-<div align="center">
-  <h4>🏆 GitHub Trophies</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=heetmehta18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
-</div>
+**Frontend:** React, Node.js, Responsive Design, Accessible Web
 
----
+**Tools & Platforms:** VS Code, Git, GitHub, Figma, Linux, IntelliJ IDEA
 
-<div align="center">
-  <h2>🛠️ My Tech Stack</h2>
+**Specializations:** Web Development, UI/UX Design, Full-Stack Development, Data Science, AI/ML
 
-  <h4>Languages & Markup</h4>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-    <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-    <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  </p>
 
-  <h4>Tools & Platforms</h4>
-  <p>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.nsnam.org/"><img src="https://img.shields.io/badge/NS3-009688?style=for-the-badge&logo=networkx&logoColor=white" alt="NS3"></a>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-    <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-  </p>
+## Current Learning & Expertise
 
-  <h4>Coding Platforms</h4>
-  <p>
-    <a href="https://leetcode.com/u/6q4QjSdNoE/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-    <a href="https://www.codedx.io/@HEETMEHTA18" target="_blank"><img src="https://img.shields.io/badge/Codedx-000000?style=for-the-badge&logo=code&logoColor=white" alt="Codedx"></a>
-    <a href="https://www.codechef.com/users/heetmehta18" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-    <a href="https://www.hackerrank.com/profile/24ce064" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
-  </p>
-</div>
+- **RAG (Retrieval-Augmented Generation):** Understanding advanced RAG architectures, including Dense Passage Retrieval (DPR), Hybrid Search approaches, and LLM-based retrieval optimization
+- **RAG Types:** Naive RAG, Advanced RAG (with query optimization), Agentic RAG, and Multi-modal RAG implementations
+- **Active Contributions:** Contributing to open-source projects and building AI-powered solutions
 
----
 
-<div align="center">
-  <h2>🏅 Holopin Badges</h2>
-  <a href="https://www.holopin.io/@heetmehta18">
-    <img src="https://holopin.me/heetmehta18" alt="Holopin Badge Board" />
-  </a>
-</div>
+## Featured Projects
 
----
+**Personal:**
 
-<div align="center">
-  <h2>🐍 Contributions Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/heetmehta18/heetmehta18/output/github-snake.svg" />
-  </picture>
-</div>
+- **[BinaryBattles](https://binarybattles.dev/)** — Coding battle platform for developers to compete in real-time coding challenges with a focus on algorithmic problem-solving and competitive programming
+- **[Coastal Guardian](https://github.com/HEETMEHTA18/Coastal-Guardian)** — AI-powered platform for real-time coastal threat assessment with satellite imagery and ML models
+- **[Sasta Shark Tank](https://github.com/HEETMEHTA18/Sasta-Shark-Tank)** — Interactive AI investor simulator powered by Together AI for business pitch feedback
+- **[Coding Bingo Platform](https://github.com/HEETMEHTA18/Coding-Bingo-Platform)** — Multiplayer coding games for developers and teams
+- **[Fundamental of Data Science](https://github.com/HEETMEHTA18/Fundamental-Of-Data-Science)** — Comprehensive notebooks and fundamentals for data science learning
+- **[Portfolio](https://heet18.vercel.app/)** — Personal portfolio showcasing projects and skills
 
----
+**Open Source Contributions:**
+- **[Keploy Blog](https://github.com/keploy/blog-website)** — Contributing to Keploy's technical blog with feature enhancements
+- **[Ollama](https://github.com/ollama/ollama)** — Contributions to Ollama's open-source LLM framework
+- **[Keploy](https://github.com/keploy/keploy)** — API testing and E2E testing agent contributions
 
-<div align="center">
-  <h3>💭 Thought of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
-</div>
 
----
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00F7A2&center=true&vCenter=true&width=800&lines=Creating+beautiful+web+experiences+one+line+at+a+time+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
+## Get in Touch
+
+📧 **Email:** heetmehta.work@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/heet-mehta-35566422a](https://www.linkedin.com/in/heet-mehta-35566422a/)  
+🌐 **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)  
+🐙 **GitHub:** [@heetmehta18](https://github.com/HEETMEHTA18)
