@@ -58,4 +58,4 @@ I'm a passionate Computer Engineering student specializing in **Web Technologies
 🔗 **LinkedIn:** [linkedin.com/in/heet-mehta-35566422a](https://www.linkedin.com/in/heet-mehta-35566422a/)  
 🌐 **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)  
 🐙 **GitHub:** [@heetmehta18](https://github.com/HEETMEHTA18)
-⚡ **Autodevs:** [@appstore for developers](https://autodevs.dev")
+⚡ **Autodevs:** [@appstore for developers](https://autodevs.dev)
