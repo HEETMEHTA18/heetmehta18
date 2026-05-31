@@ -37,6 +37,7 @@ I'm a passionate Computer Engineering student specializing in **Web Technologies
 
 **Personal:**
 
+- **[autodev](https://github.com/HEETMEHTA18/autodev)** — An open-source, cross-platform developer environment bootstrapper that automatically detects technologies, installs missing runtimes, dependencies, SDKs, and dev tools — all with a single command.
 - **[BinaryBattles](https://binarybattles.dev/)** — Coding battle platform for developers to compete in real-time coding challenges with a focus on algorithmic problem-solving and competitive programming
 - **[Coastal Guardian](https://github.com/HEETMEHTA18/Coastal-Guardian)** — AI-powered platform for real-time coastal threat assessment with satellite imagery and ML models
 - **[Sasta Shark Tank](https://github.com/HEETMEHTA18/Sasta-Shark-Tank)** — Interactive AI investor simulator powered by Together AI for business pitch feedback
@@ -45,9 +46,9 @@ I'm a passionate Computer Engineering student specializing in **Web Technologies
 - **[Portfolio](https://heet18.vercel.app/)** — Personal portfolio showcasing projects and skills
 
 **Open Source Contributions:**
-- **[Keploy Blog](https://github.com/keploy/blog-website)** — Contributing to Keploy's technical blog with feature enhancements
+- **[Bumblebee](https://github.com/perplexityai/bumblebee)** — Contributed CLI features (optional human-readable and opt-in terminal scan outputs) to Perplexity AI's security scanner
 - **[Ollama](https://github.com/ollama/ollama)** — Contributions to Ollama's open-source LLM framework
-- **[Keploy](https://github.com/keploy/keploy)** — API testing and E2E testing agent contributions
+<!-- - **[Keploy](https://github.com/keploy/keploy)** — API testing and E2E testing agent contributions -->
 
 
 
@@ -57,3 +58,4 @@ I'm a passionate Computer Engineering student specializing in **Web Technologies
 🔗 **LinkedIn:** [linkedin.com/in/heet-mehta-35566422a](https://www.linkedin.com/in/heet-mehta-35566422a/)  
 🌐 **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)  
 🐙 **GitHub:** [@heetmehta18](https://github.com/HEETMEHTA18)
+⚡ **Autodevs:** [@appstore for developers](https://autodevs.dev")
