@@ -1,61 +1,124 @@
 # Heet Mehta — AI/ML Enthusiast
 
-
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=heetmehta18&color=00F7A2&style=flat-square&label=views" alt="Profile Views" />
-	<img src="https://img.shields.io/github/stars/heetmehta18?style=flat-square&color=00F7A2&label=likes" alt="GitHub Stars" />
-	<img src="https://img.shields.io/github/followers/heetmehta18?style=flat-square&color=00F7A2&label=followers" alt="Followers" />
+
+```
+  ██    ██  ████████  ████████  ████████
+  ██    ██  ██        ██            ██
+  ██    ██  ██        ██            ██
+  ████████  ██████    ██████        ██
+  ██    ██  ██        ██            ██
+  ██    ██  ██        ██            ██
+  ██    ██  ████████  ████████      ██
+
+  ██    ██  ████████  ██    ██  ████████      ██
+  ███  ███  ██        ██    ██      ██       ████
+  ████████  ██        ██    ██      ██      ██  ██
+  ██ ██ ██  ██████    ████████      ██    ██    ██
+  ██    ██  ██        ██    ██      ██    ████████
+  ██    ██  ██        ██    ██      ██    ██    ██
+  ██    ██  ████████  ██    ██      ██    ██    ██
+```
+
+<img src="https://komarev.com/ghpvc/?username=heetmehta18&color=00F7A2&style=flat-square&label=views" alt="Profile Views" />
+<img src="https://img.shields.io/github/stars/heetmehta18?style=flat-square&color=00F7A2&label=stars" alt="Stars" />
+<img src="https://img.shields.io/github/followers/heetmehta18?style=flat-square&color=00F7A2&label=followers" alt="Followers" />
+
 </div>
 
-👋 ***Hey***! I'm Heet, a Computer Engineering student passionate about building intelligent AI/ML solutions and creating seamless user experiences powered by machine learning. Currently focused on RAG systems, LLM applications, and AI-driven full-stack development.
+Hey! I'm **Heet** — a Computer Engineering student building at the intersection of **AI/ML** and **full-stack development**. I ship products, not just prototypes.
 
- **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)
+**Portfolio:** [heetworld.tech](https://heetworld.tech/) · **Autodevs:** [autodevs.dev](https://autodevs.dev)
+
+---
+
+## What I'm Doing Now
+
+```
+▸ Building RAG systems that actually work in production
+▸ Contributing to open-source AI tools (Ollama, Bumblebee)
+▸ Shipping full-stack AI products end-to-end
+▸ Learning: Agentic workflows, multi-modal retrieval, eval pipelines
+```
+
+---
 
 ## About Me
 
-I'm a passionate Computer Engineering student specializing in **Web Technologies** and **AI/ML**. I am transforming complex problems into elegant UI solutions and creating responsive, accessible digital experiences.
+Computer Engineering student specializing in **Web Technologies** and **AI/ML**. focusing in building systems that are functional, accessible, and well-engineered — from training ML models to shipping production apps.
 
+**Languages:** JavaScript · TypeScript · Python · C · C++ · HTML5 · CSS3  
+**AI/ML:** RAG Systems · LLM Applications · Data Science · ML Pipelines · Model Evaluation  
+**Web:** React · Next.js · Node.js · Responsive Design · Accessibility  
+**Tools:** Git · GitHub · Docker · Linux · Figma · VS Code
 
+---
 
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, C, C++, Python
+## Explored
 
-**Frontend:** React, Node.js, Responsive Design, Accessible Web
+### RAG Systems
+Building production-grade retrieval pipelines — naive to advanced architectures with Dense Passage Retrieval, hybrid search, query routing, and re-ranking. Currently exploring Agentic RAG and multi-modal retrieval.
 
-**Tools & Platforms:** VS Code, Git, GitHub, Figma, Linux, IntelliJ IDEA
+### LLM Applications
+Developing real-world LLM-powered products — from chatbots to autonomous coding assistants. Focused on tool use, structured outputs, and evaluation frameworks.
 
-**Specializations:** Web Development, UI/UX Design, Full-Stack Development, Data Science, AI/ML
+### Full-Stack AI
+End-to-end development where AI models meet production infrastructure. API design, deployment, monitoring, and scaling ML workloads — not just notebooks.
 
+### Open Source
+Contributor to projects I actually use. Contributed CLI features to Perplexity's Bumblebee and improvements to Ollama's inference framework and the recent airllm which is been used for the quantization of models[https://github.com/lyogavin/airllm/pull/339].
 
-## Current Learning & Expertise
-
-- **RAG (Retrieval-Augmented Generation):** Understanding advanced RAG architectures, including Dense Passage Retrieval (DPR), Hybrid Search approaches, and LLM-based retrieval optimization
-- **RAG Types:** Naive RAG, Advanced RAG (with query optimization), Agentic RAG, and Multi-modal RAG implementations
-- **Active Contributions:** Contributing to open-source projects and building AI-powered solutions
-
+---
 
 ## Featured Projects
 
-**Personal:**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[autodev](https://github.com/HEETMEHTA18/autodev)** | Cross-platform dev environment bootstrapper — detects tech, installs runtimes, dependencies, and tools in one command | `TypeScript` `Node.js` `CLI` |
+| **[BinaryBattles](https://binarybattles.dev/)** | Real-time competitive coding platform with live matching, scoring, and leaderboards | `React` `WebSocket` `Algorithms` |
+| **[Coastal Guardian](https://github.com/HEETMEHTA18/Coastal-Guardian)** | AI-powered coastal threat assessment using satellite imagery and ML models | `Python` `Computer Vision` `ML` |
+| **[Coding Bingo](https://github.com/HEETMEHTA18/Coding-Bingo-Platform)** | Multiplayer coding games for developers and teams | `Full-Stack` `Real-time` `Gamification` |
+| **[Data Science Fundamentals](https://github.com/HEETMEHTA18/Fundamental-Of-Data-Science)** | Comprehensive notebooks covering statistics, analysis, visualization, and ML basics | `Python` `Jupyter` `Statistics` |
 
-- **[autodev](https://github.com/HEETMEHTA18/autodev)** — An open-source, cross-platform developer environment bootstrapper that automatically detects technologies, installs missing runtimes, dependencies, SDKs, and dev tools — all with a single command.
-- **[BinaryBattles](https://binarybattles.dev/)** — Coding battle platform for developers to compete in real-time coding challenges with a focus on algorithmic problem-solving and competitive programming
-- **[Coastal Guardian](https://github.com/HEETMEHTA18/Coastal-Guardian)** — AI-powered platform for real-time coastal threat assessment with satellite imagery and ML models
-- **[Sasta Shark Tank](https://github.com/HEETMEHTA18/Sasta-Shark-Tank)** — Interactive AI investor simulator powered by Together AI for business pitch feedback
-- **[Coding Bingo Platform](https://github.com/HEETMEHTA18/Coding-Bingo-Platform)** — Multiplayer coding games for developers and teams
-- **[Fundamental of Data Science](https://github.com/HEETMEHTA18/Fundamental-Of-Data-Science)** — Comprehensive notebooks and fundamentals for data science learning
-- **[Portfolio](https://heet18.vercel.app/)** — Personal portfolio showcasing projects and skills
+---
 
-**Open Source Contributions:**
-- **[Bumblebee](https://github.com/perplexityai/bumblebee)** — Contributed CLI features (optional human-readable and opt-in terminal scan outputs) to Perplexity AI's security scanner
-- **[Ollama](https://github.com/ollama/ollama)** — Contributions to Ollama's open-source LLM framework
-<!-- - **[Keploy](https://github.com/keploy/keploy)** — API testing and E2E testing agent contributions -->
+## Open Source
 
+| Project | Contribution |
+|---------|-------------|
+| **[Perplexity Bumblebee](https://github.com/perplexityai/bumblebee/pull/24)** | TUI | CLI features — human-readable output formatting, opt-in terminal scan reports |
+| **[Ollama](https://github.com/ollama/ollama/pull/15527)** | llm: set ROCm Tensile lib path|
+| **[AirLLM](https://github.com/lyogavin/airllm/pull/339)** | robust layer-count parsing for nested checkpoint prefixes|
 
+---
 
-## Get in Touch
+## GitHub Stats
 
-📧 **Email:** heetmehta.work@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/heet-mehta-35566422a](https://www.linkedin.com/in/heet-mehta-35566422a/)  
-🌐 **Portfolio:** [heet18.vercel.app](https://heet18.vercel.app/)  
-🐙 **GitHub:** [@heetmehta18](https://github.com/HEETMEHTA18)
-⚡ **Autodevs:** [@appstore for developers](https://autodevs.dev)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEETMEHTA18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7A2&icon_color=00F7A2&text_color=c9d1d9&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEETMEHTA18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7A2&text_color=c9d1d9)
+
+</div>
+
+## Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heetmehta.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heet-mehta-35566422a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HEETMEHTA18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7A2?style=flat-square&logo=vercel&logoColor=black)](https://heetworld.tech/)
+[![Autodevs](https://img.shields.io/badge/Autodevs-FF6B35?style=flat-square)](https://autodevs.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building intelligence, one commit at a time.*
+*Built with code + curiosity*
+
+</div>
