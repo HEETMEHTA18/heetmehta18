@@ -1,23 +1,23 @@
-# Heet Mehta — AI/ML Enthusiast
+# Heet Mehta | AI/ML + Full-Stack Engineer
 
 <div align="center">
 
 ```
-  ██    ██  ████████  ████████  ████████
-  ██    ██  ██        ██            ██
-  ██    ██  ██        ██            ██
-  ████████  ██████    ██████        ██
-  ██    ██  ██        ██            ██
-  ██    ██  ██        ██            ██
-  ██    ██  ████████  ████████      ██
+  ██   ██  ███████  ███████  ███████
+  ██   ██  ██       ██          ██
+  ██   ██  ██       ██          ██
+  ███████  ██████   ██████      ██
+  ██   ██  ██       ██          ██
+  ██   ██  ██       ██          ██
+  ██   ██  ███████  ███████     ██
 
-  ██    ██  ████████  ██    ██  ████████      ██
-  ███  ███  ██        ██    ██      ██       ████
-  ████████  ██        ██    ██      ██      ██  ██
-  ██ ██ ██  ██████    ████████      ██    ██    ██
-  ██    ██  ██        ██    ██      ██    ████████
-  ██    ██  ██        ██    ██      ██    ██    ██
-  ██    ██  ████████  ██    ██      ██    ██    ██
+  ███   ███  ███████  ██   ██  ███████   █████
+  ████ ████  ██       ██   ██     ██    ██   ██
+  ██ █ █ ██  ██       ██   ██     ██    ██   ██
+  ██   █ ██  ██████   ███████     ██    ███████
+  ██     ██  ██       ██   ██     ██    ██   ██
+  ██     ██  ██       ██   ██     ██    ██   ██
+  ██     ██  ███████  ██   ██     ██    ██   ██
 ```
 
 <img src="https://komarev.com/ghpvc/?username=heetmehta18&color=00F7A2&style=flat-square&label=views" alt="Profile Views" />
@@ -26,47 +26,47 @@
 
 </div>
 
-Hey! I'm **Heet** — a Computer Engineering student building at the intersection of **AI/ML** and **full-stack development**. I ship products, not just prototypes.
+I’m **Heet**, a Computer Engineering student building at the intersection of **AI/ML** and **full-stack development**. I ship products, not just prototypes.
 
 **Portfolio:** [heetworld.tech](https://heetworld.tech/) · **Autodevs:** [autodevs.dev](https://autodevs.dev)
 
 ---
 
-## What I'm Doing Now
+## What I’m Doing Now
 
-```
-▸ Building RAG systems that actually work in production
-▸ Contributing to open-source AI tools (Ollama, Bumblebee)
-▸ Shipping full-stack AI products end-to-end
-▸ Learning: Agentic workflows, multi-modal retrieval, eval pipelines
-```
+- Building RAG systems that work in production
+- Contributing to open-source AI tools, including Ollama and Bumblebee
+- Shipping full-stack AI products end-to-end
+- Exploring agentic workflows, multimodal retrieval, and evaluation pipelines
 
 ---
 
 ## About Me
 
-Computer Engineering student specializing in **Web Technologies** and **AI/ML**. focusing in building systems that are functional, accessible, and well-engineered — from training ML models to shipping production apps.
+Computer Engineering student specializing in **Web Technologies** and **AI/ML**, focused on building systems that are functional, accessible, and well-engineered, from training ML models to shipping production apps.
 
-**Languages:** JavaScript · TypeScript · Python · C · C++ · HTML5 · CSS3  
-**AI/ML:** RAG Systems · LLM Applications · Data Science · ML Pipelines · Model Evaluation  
-**Web:** React · Next.js · Node.js · Responsive Design · Accessibility  
-**Tools:** Git · GitHub · Docker · Linux · Figma · VS Code
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, C, C++, HTML5, CSS3 |
+| AI/ML | RAG systems, LLM applications, data science, ML pipelines, model evaluation |
+| Web | React, Next.js, Node.js, responsive design, accessibility |
+| Tools | Git, GitHub, Docker, Linux, Figma, VS Code |
 
 ---
 
-## Explored
+## Areas of Focus
 
 ### RAG Systems
-Building production-grade retrieval pipelines — naive to advanced architectures with Dense Passage Retrieval, hybrid search, query routing, and re-ranking. Currently exploring Agentic RAG and multi-modal retrieval.
+Building production-grade retrieval pipelines, from naive to advanced architectures with dense passage retrieval, hybrid search, query routing, and re-ranking. Currently exploring agentic RAG and multimodal retrieval.
 
 ### LLM Applications
-Developing real-world LLM-powered products — from chatbots to autonomous coding assistants. Focused on tool use, structured outputs, and evaluation frameworks.
+Developing real-world LLM-powered products, from chatbots to autonomous coding assistants. Focused on tool use, structured outputs, and evaluation frameworks.
 
 ### Full-Stack AI
-End-to-end development where AI models meet production infrastructure. API design, deployment, monitoring, and scaling ML workloads — not just notebooks.
+End-to-end development where AI models meet production infrastructure: API design, deployment, monitoring, and scaling ML workloads, not just notebooks.
 
 ### Open Source
-Contributor to projects I actually use. Contributed CLI features to Perplexity's Bumblebee and improvements to Ollama's inference framework and the recent airllm which is been used for the quantization of models[https://github.com/lyogavin/airllm/pull/339].
+Contributor to projects I actually use. I have contributed CLI features to Perplexity’s Bumblebee, improvements to Ollama’s inference framework, and robust layer-count parsing to [AirLLM](https://github.com/lyogavin/airllm/pull/339).
 
 ---
 
